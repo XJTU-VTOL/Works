@@ -32,7 +32,7 @@
 > 
 > echo "another line" >> aha.txt
 > 
-> echo < aha.txt
+> grep < aha.txt
 
 ## level 3 file management
 - touch
